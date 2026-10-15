@@ -11,6 +11,6 @@ ruff>=0.5
 [pose3d]
 
 [vision]
-ultralytics>=8.0
+ultralytics>=8.4.0
 supervision>=0.22
 filterpy>=1.4

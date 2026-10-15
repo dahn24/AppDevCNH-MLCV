@@ -26,7 +26,7 @@ dev = [
 
 # Heavy vision dependencies are optional so the codebase can still install on CPU-only laptops.
 vision = [
-  "ultralytics>=8.0",
+  "ultralytics>=8.4.0",
   "supervision>=0.22",
   "filterpy>=1.4",
 ]

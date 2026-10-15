@@ -1,0 +1,16 @@
+# Runtime dependencies from pyproject.toml, including the optional vision group.
+numpy>=1.24
+opencv-python-headless>=4.8
+scipy>=1.10
+tqdm>=4.66
+albumentations>=1.4
+ultralytics>=8.4.0
+supervision>=0.22
+filterpy>=1.4
+
+# Development and existing project tests.
+pytest>=8.0
+ruff>=0.5
+
+# Install this project in editable mode so its package and CLI are available.
+-e .

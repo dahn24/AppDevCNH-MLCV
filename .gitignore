@@ -1,3 +1,5 @@
+.venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -8,7 +10,6 @@ __pycache__/
 
 # Models
 *.pth 
-
 
 
 #dont include clips dir
